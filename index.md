@@ -1,3 +1,5 @@
+# List of Recent Research Publications about Horses
+
 ## 2017
 
 - **Skeletal muscle mitochondrial bioenergetics and associations with myostatin genotypes in the Thoroughbred horse.**. Rooney et al. *PLoS One*. 10.1371/journal.pone.0186247. [29190290](https://www.ncbi.nlm.nih.gov/pubmed/?term=29190290)
